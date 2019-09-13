@@ -1,0 +1,20 @@
+/*Everything in here is a COMMENT CODE*/
+
+body
+{
+  /*background-color: lightpink;*/
+    background-image: url("img/dora.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    color:hotpink;
+}
+/*Style a specific section of the page that has an ID=using the hashtag #*/
+#textEnhance
+{
+    color:pink;
+    background-image: linear-gradient(deeppink,lightpink)
+}
